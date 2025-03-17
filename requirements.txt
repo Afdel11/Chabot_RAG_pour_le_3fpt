@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+langchain_google_genai
+pymupdf
+langchain_community
+faiss-cpu
